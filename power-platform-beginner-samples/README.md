@@ -10,7 +10,7 @@
 
 This is a public resource repository containing **samples, solutions, and demos** for Microsoft 365 and the Power Platform. Whether you are just getting started or looking to level up your skills, you will find practical, real-world examples you can download, import, and learn from.
 
-Everything here is built to be hands-on. Each sample is paired with a blog post on [wrvishnu.com](https://www.wrvishnu.com) that walks you through the build step by step.
+Everything here is built to be hands-on. Each sample is paired with a blog post on [Read the full guide on wrvishnu.com](https://www.wrvishnu.com/power-platform-samples-for-beginners/) that walks you through the build step by step.
 
 ---
 
@@ -18,7 +18,7 @@ Everything here is built to be hands-on. Each sample is paired with a blog post 
 
 This repository is for **everyone** — from first-timers to seasoned makers:
 
-- **Beginners** — Follow along with the blog guides on [wrvishnu.com](https://www.wrvishnu.com) to build each sample from scratch
+- **Beginners** — Follow along with the blog guides on [Read the full guide on wrvishnu.com](https://www.wrvishnu.com/power-platform-samples-for-beginners/) to build each sample from scratch
 - **Intermediate users** — Download the packaged solutions and explore how they are built
 - **Advanced users** — Use these as a foundation and extend them for your own scenarios
 
@@ -27,9 +27,8 @@ This repository is for **everyone** — from first-timers to seasoned makers:
 ## 🚀 How to Use This Repository
 
 1. **Browse** the folders to find a sample relevant to what you want to build
-2. **Read the blog post** on [wrvishnu.com](https://www.wrvishnu.com) for that sample — it includes prerequisites, a step-by-step guide, and tips
-3. **Download** the solution or template file from this repository
-4. **Import** it into your own Microsoft 365 environment and make it yours
+2. **Download** the solution or template file from this repository
+3. **Import** it into your own Microsoft 365 environment and make it yours
 
 ---
 
@@ -38,7 +37,7 @@ This repository is for **everyone** — from first-timers to seasoned makers:
 | | |
 |---|---|
 | 🌐 Blog & Tutorials | [www.wrvishnu.com](https://www.wrvishnu.com) |
-| 💼 LinkedIn | Coming soon |
+ Linkedin : https://www.linkedin.com/in/vishnuwr
 | ⭐ Star this repo | If you find it useful, give it a star to help others find it! |
 
 ---
